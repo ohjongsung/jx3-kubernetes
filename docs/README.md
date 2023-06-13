@@ -82,6 +82,16 @@
 	      <td><a href='https://github.com/jenkins-x-plugins/jx-kh-check'>source</a></td>
 	    </tr>
     <tr>
+		      <td colspan='5'><h3>nginx</h3></td>
+		    </tr>
+	    <tr>
+	      <td>nginx-ingress</td>
+	      <td title='Ingress controller for Kubernetes using NGINX as a reverse proxy and load balancer'><a href='https://github.com/kubernetes/ingress-nginx'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png' width='24px' height='24px'> ingress-nginx</a></td>
+	      <td>4.1.0</td>
+	      <td></td>
+	      <td><a href='https://github.com/kubernetes/ingress-nginx'>source</a></td>
+	    </tr>
+    <tr>
 		      <td colspan='5'><h3>tekton-pipelines</h3></td>
 		    </tr>
 	    <tr>
